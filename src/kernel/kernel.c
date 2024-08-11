@@ -100,5 +100,5 @@ void terminal_print(const char* str){
 void kernel_main(void){
 	terminal_init();
 
-	terminal_print("Hello, world :)");
+	terminal_print("Benjios ;)");
 }
